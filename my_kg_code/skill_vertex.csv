@@ -1,0 +1,318 @@
+skill-domain,mobile development
+skill,android development
+skill, eclipse
+skill, kotlin
+skill, java
+skill, ios development
+skill, objective-c
+skill, xcode
+skill, interfacebuilder
+skill,core data
+skill,cocoa touch
+skill,cocoa
+skill,iphone
+skill,ipad
+skill,iphone application development
+skill,database
+skill,sqlite
+skill,embedded databases
+skill,snappydb
+skill,jquery mobile
+skill-domain,application development
+skill,.net
+skill,windows applications
+skill,vb.net
+skill,wcf services
+skill,c#
+skill,linq
+skill,.net framework
+skill,.net compact framework
+skill,entity framework
+skill,ado.net
+skill,.net remoting
+skill,.net clr
+skill,visual c#
+skill,wpf
+skill,visual studio
+skill-domain,data analytics
+skill,SAS
+skill,SPSS
+skill,r
+skill,statistical modeling
+skill,data visualization
+skill,tableau
+skill,ggplot
+skill,statistics
+skill,analytics
+skill,data analysis
+skill,time series analysis
+skill,business intelligence
+skill,simulations
+skill,microsoft excel
+skill,mathematical modelin
+skill,business analysis
+skill,business analytics
+skill-domain,data science
+skill,artifical intelligence
+skill,pattern recognition
+skill,information retrival
+skill,data mining
+skill,machine learning
+skill,segmentation
+skill,supervised learning
+skill,logistic regression
+skill,predictive modeling
+skill,predictive analytics
+skill,artifical neural networks
+skill,image processing
+skill,digital signal processing
+skill,image analysis
+skill,digital image processing
+skill,medical imaging
+skill,opencv
+skill,computer vision
+skill,signal processing
+skill,deep learning
+skill,keras
+skill,tensorflow
+skill,pytorch
+skill,caffe
+skill,nlp
+skill,information retrival
+skill,text mining
+skill,natural language processing
+skill-domain,data engineering
+skill,apache spark
+skill,apache hbase
+skill,apache hadoop
+skill,apache hive
+skill,apache pig
+skill,map reduce
+skill,mapreduce
+skill,apache kafka
+skill,elasticsearch
+skill,apache sqoop
+skill,apache storm
+skill,apache flink
+skill,big data
+skill,distributed systems
+skill,apache cassandra
+skill-domain,operating systems
+skill,windows
+skill,linux/unix
+skill,redhat
+skill,solaris
+skill,aix
+skill,centos
+skill,ubuntu
+skill,fedora
+skill-domain,web development
+skill,front-end
+skill,html
+skill,css
+skill,sass
+skill,less
+skill,cascading style sheets (css)
+skill,bootstrap
+skill,javascript
+skill,jquery
+skill,express.js
+skill,backbone.js
+skill,json
+skill,typescript
+skill,redux
+skill,jquery ui
+skill,react.js
+skill,angularjs
+skill,human computer interaction
+skill,Flash
+skill,xhtml
+skill,backend
+skill,javascript
+skill,node.js
+skill,asp
+skill,restful webservices
+skill,wcf services
+skill,weblogic
+skill,tomcat
+skill,web services
+skill,php
+skill,codeignitor
+skill,cakephp
+skill,ajax
+skill,web applications
+skill,jsp
+skill,mysql
+skill,xml
+skill,jms
+skill,rest
+skill,soa
+skill,seo
+skill,frameworks
+skill,joomla
+skill,wcf
+skill,asp.net ajax
+skill,cms
+skill,asp.net web api
+skill,wordpress
+skill,asp.net mvc
+skill,flask
+skill,django
+skill,dreamweaver
+skill,asp.net
+skill,ruby on rails
+skill,spring framework
+skill,mvc
+skill,spring mvc
+skill,struts
+skill,servlets
+skill,design
+skill,graphic design
+skill,user interface
+skill,user interface design
+skill,usability
+skill,interaction design
+skill,user research
+skill,usability engineering
+skill,web design
+skill,user experience design
+skill,visual design
+skill,user experience
+skill,usability testing
+skill,illustrator
+skill,information architecture
+skill,heuristic evaluation
+skill,wireframing
+skill,responsive web design
+skill,photoshop
+skill,adobe creative suite
+skill,adobe illustrator
+skill,adobe photoshop
+skill,front-end
+skill-domain,database
+skill,db-server
+skill,mysql
+skill,microsoft sql server
+skill,ms sql server
+skill,postgresql
+skill,postgre sql
+skill,oracle
+skill,maria
+skill,mongodb
+skill,cassandra
+skill,ibm db
+skill,database design
+skill,pl/sql
+skill,db
+skill,etl
+skill,extract transform load
+skill,sql tuning
+skill,sql
+skill,nosql
+skill,t-sql
+skill,ssis
+skill,data warehousing
+skill-domain,virtualization
+skill,hypervisors
+skill,hyper-v
+skill,vmware
+skill,netapp
+skill,xen
+skill,vmware esx
+skill,vmware esxi
+skill,infrastructure
+skill,openstack
+skill,openshift
+skill,opennebula
+skill,cloudstack
+skill,kvm
+skill,Eucalyptus
+skill,kubernetes
+skill,san
+skill,storage area networks
+skill,storage area networks (san)
+skill,nas
+skill,storage virtualization
+skill,networking
+skill,iscsi
+skill,network security
+skill,security
+skill,tools
+skill,nagios
+skill,vmplayer
+skill-domain,infrastructure
+skill,networking
+skill,network security
+skill,tcp/ip
+skill,dns
+skill,firewalls
+skill,nagios
+skill,tools
+skill,microsoft exchange
+skill,active directory
+skill,power shell
+skill,docker
+skill,sharepoint
+skill,system administration
+skill,disastor recovery
+skill,system deployment
+skill,high availability
+skill,virtualization
+skill,clearcase
+skill-domain,devops
+skill,ci/cd
+skill,jenkins
+skill,travis ci
+skill,issue tracking
+skill,jira
+skill,build tools
+skill,gradle
+skill,ant
+skill,configuration management
+skill,puppet
+skill,chef
+skill,ansible
+skill,vagrant
+skill,docker
+skill,vegeta
+skill-domain,cloud computing
+skill,providers
+skill,amazon web services
+skill,aws
+skill,amazon web services (aws)
+skill,azure
+skill,microsoft azure
+skill,amazon vpc
+skill,amazon ec2
+skill,cloud database
+skill,amazon rds
+skill,amazon redshift
+skill,amazon simpledb
+skill,amazon dynamodb
+skill,cdn
+skill,amazon cloudfront
+skill,storage
+skill,amazon ebs
+skill-domain,system architecture
+skill,soa
+skill,design patterns
+skill,software architectural design
+skill,enterprise architecture
+skill,soultion architecture
+skill,application architecture
+skill-domain,programming languages
+skill,object oriented
+skill,java
+skill,python
+skill,c++
+skill,scala
+skill,c#
+skill,systems programming language
+skill,go
+skill,c
+skill,c++
+skill,rust
+skill,functional programming
+skill,python
+skill,scala
+skill,java
