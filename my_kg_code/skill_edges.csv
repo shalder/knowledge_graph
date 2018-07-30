@@ -1,0 +1,302 @@
+mobile development, android development
+mobile development, ios development
+android development, eclipse
+android development, kotlin
+android development, java
+ios development, objective-c
+ios development, xcode
+ios development, interfacebuilder
+ios development,core data
+ios development,cocoa touch
+ios development,cocoa
+ios development,iphone
+ios development,ipad
+ios development,iphone application development
+mobile development,database
+database,sqlite
+database,embedded databases
+database,snappydb
+mobile development,jquery mobile
+application development,.net
+application development,windows applications
+.net,vb.net
+.net,wcf services
+.net,c#
+.net,linq
+.net,.net framework
+.net,.net compact framework
+.net,entity framework
+.net,ado.net
+.net,.net remoting
+.net,.net clr
+.net,visual c#
+windows applications,wpf
+windows applications,visual studio
+data analytics,SAS
+data analytics,SPSS
+data analytics,r
+data analytics,statistical modeling
+data analytics,data visualization
+data visualization,tableau
+data visualization,ggplot
+data analytics,statistics
+data analytics,analytics
+data analytics,data analysis
+data analytics,time series analysis
+data analytics,business intelligence
+data analytics,simulations
+data analytics,microsoft excel
+data analytics,mathematical modelin
+data analytics,business analysis
+data analytics,business analytics
+data science,artifical intelligence
+data science,machine learning
+data science,image processing
+data science,deep learning
+data science,nlp
+artifical intelligence,pattern recognition
+artifical intelligence,information retrival
+artifical intelligence,data mining
+machine learning,segmentation
+machine learning,supervised learning
+machine learning,logistic regression
+machine learning,predictive modeling
+machine learning,predictive analytics
+machine learning,artifical neural networks
+image processing,digital signal processing
+image processing,image analysis
+image processing,digital image processing
+image processing,medical imaging
+image processing,opencv
+image processing,computer vision
+image processing,signal processing
+deep learning,keras
+deep learning,tensorflow
+deep learning,pytorch
+deep learning,caffe
+nlp,information retrival
+nlp,text mining
+nlp,natural language processing
+data engineering,apache spark
+data engineering,apache hbase
+data engineering,apache hadoop
+data engineering,apache hive
+data engineering,apache pig
+data engineering,map reduce
+data engineering,mapreduce
+data engineering,apache kafka
+data engineering,elasticsearch
+data engineering,apache sqoop
+data engineering,apache storm
+data engineering,apache flink
+data engineering,big data
+data engineering,distributed systems
+data engineering,apache cassandra
+operating systems,windows
+operating systems,linux/unix
+linux/unix,redhat
+linux/unix,solaris
+linux/unix,aix
+linux/unix,centos
+linux/unix,ubuntu
+linux/unix,fedora
+web development,front-end
+web development,backend
+web development,frameworks
+web development,design
+front-end,html
+front-end,css
+css,sass
+css,less
+css,cascading style sheets (css)
+css,bootstrap
+front-end,javascript
+javascript,jquery
+javascript,express.js
+javascript,backbone.js
+javascript,json
+javascript,typescript
+javascript,redux
+javascript,jquery ui
+javascript,react.js
+javascript,angularjs
+front-end,human computer interaction
+front-end,Flash
+front-end,xhtml
+backend,javascript
+backend,node.js
+backend,asp
+backend,restful webservices
+backend,wcf services
+backend,weblogic
+backend,tomcat
+backend,web services
+backend,php
+php,codeignitor
+php,cakephp
+backend,ajax
+backend,web applications
+backend,jsp
+backend,mysql
+backend,xml
+backend,jms
+backend,rest
+backend,soa
+backend,seo
+frameworks,joomla
+frameworks,wcf
+frameworks,asp.net ajax
+frameworks,cms
+frameworks,asp.net web api
+frameworks,wordpress
+frameworks,asp.net mvc
+frameworks,flask
+frameworks,django
+frameworks,dreamweaver
+frameworks,asp.net
+frameworks,ruby on rails
+frameworks,spring framework
+frameworks,mvc
+frameworks,spring mvc
+frameworks,struts
+frameworks,servlets
+design,graphic design
+design,user interface
+design,user interface design
+design,usability
+design,interaction design
+design,user research
+design,usability engineering
+design,web design
+design,user experience design
+design,visual design
+design,user experience
+design,usability testing
+design,illustrator
+design,information architecture
+design,heuristic evaluation
+design,wireframing
+design,responsive web design
+design,photoshop
+design,adobe creative suite
+design,adobe illustrator
+design,adobe photoshop
+design,front-end
+database,db-server
+database,database design
+database,pl/sql
+database,db
+database,etl
+database,extract transform load
+database,sql tuning
+database,sql
+database,nosql
+database,t-sql
+database,ssis
+database,data warehousing
+db-server,mysql
+db-server,microsoft sql server
+db-server,ms sql server
+db-server,postgresql
+db-server,postgre sql
+db-server,oracle
+db-server,maria
+db-server,mongodb
+db-server,cassandra
+db-server,ibm db
+virtualization,hypervisors
+hypervisors,hyper-v
+hypervisors,vmware
+hypervisors,netapp
+hypervisors,xen
+hypervisors,vmware esx
+hypervisors,vmware esxi
+infrastructure,openstack
+infrastructure,openshift
+infrastructure,opennebula
+infrastructure,cloudstack
+infrastructure,kvm
+infrastructure,Eucalyptus
+infrastructure,kubernetes
+infrastructure,san
+infrastructure,storage area networks
+infrastructure,storage area networks (san)
+infrastructure,nas
+infrastructure,storage virtualization
+networking,iscsi
+networking,network security
+networking,security
+tools,nagios
+tools,vmplayer
+infrastructure,networking
+infrastructure,tools
+networking,network security
+networking,tcp/ip
+networking,dns
+networking,firewalls
+networking,nagios
+tools,microsoft exchange
+tools,active directory
+tools,power shell
+tools,docker
+tools,sharepoint
+infrastructure,system administration
+infrastructure,disastor recovery
+infrastructure,system deployment
+infrastructure,high availability
+infrastructure,virtualization
+infrastructure,clearcase
+devops,ci/cd
+ci/cd,jenkins
+ci/cd,travis ci
+devops,issue tracking
+issue tracking,jira
+build tools,gradle
+build tools,ant
+devops,configuration management
+configuration management,puppet
+configuration management,chef
+configuration management,ansible
+configuration management,vagrant
+devops,docker
+devops,vegeta
+devops,build tools
+devops,configuration management
+cloud computing,providers
+providers,amazon web services
+providers,aws
+providers,amazon web services (aws)
+providers,azure
+providers,microsoft azure
+providers,amazon vpc
+providers,amazon ec2
+cloud computing,cloud database
+cloud database,amazon rds
+cloud database,amazon redshift
+cloud database,amazon simpledb
+cloud database,amazon dynamodb
+cloud computing,cdn
+cdn,amazon cloudfront
+cloud computing,storage
+storage,amazon ebs
+system architecture,soa
+system architecture,design patterns
+system architecture,software architectural design
+system architecture,enterprise architecture
+system architecture,soultion architecture
+system architecture,application architecture
+programming languages,object oriented
+object oriented,java
+object oriented,python
+object oriented,c++
+object oriented,scala
+object oriented,c#
+programming languages,systems programming language
+systems programming language,go
+systems programming language,c
+systems programming language,c++
+systems programming language,rust
+programming languages,functional programming
+functional programming,python
+functional programming,scala
+functional programming,java
