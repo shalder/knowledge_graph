@@ -1,7 +1,7 @@
 import csv
 import sys
 import traceback
-from headway_gremlin_connection import HWGremlinConnection
+from gremlin_connection import HWGremlinConnection
 
 class SkillsKWGraph:
     def __init__(self):
